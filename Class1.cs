@@ -31,7 +31,7 @@ namespace Autocad_Get_layer_18_04_2024
             Editor ed = Application.DocumentManager.MdiActiveDocument.Editor;
             List<string> lstlay = new List<string>();
 
-            LayerTableRecord layer;
+            //LayerTableRecord layer;
             using (Transaction tr = db.TransactionManager.StartOpenCloseTransaction())
             {
                 LayerTable lt = tr.GetObject(db.LayerTableId, OpenMode.ForRead) as LayerTable;
