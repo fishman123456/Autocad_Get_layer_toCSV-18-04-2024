@@ -13,7 +13,7 @@ namespace Autocad_Get_layer_18_04_2024
     public class Class1
     {
         // This method can have any name
-        [CommandMethod("DisplayLayers")]
+        [CommandMethod("U_83_Get_lay")]
         public void TestDisplayLayers()
         {
             Document doc = Autodesk.AutoCAD.ApplicationServices.Application.DocumentManager.MdiActiveDocument;
@@ -45,6 +45,7 @@ namespace Autocad_Get_layer_18_04_2024
             new TypedValue(Convert.ToInt32(DxfCode.Start), "LWPOLYLINE"),
             new TypedValue(Convert.ToInt32(DxfCode.Start), "POLYLINE2D"),
             new TypedValue(Convert.ToInt32(DxfCode.Start), "POLYLINE3d"),
+            new TypedValue(Convert.ToInt32(DxfCode.Start), "CIRCLE"),
             new TypedValue(Convert.ToInt32(DxfCode.Operator), "or>"),
             new TypedValue(Convert.ToInt32(DxfCode.Operator), "and>")
         };
