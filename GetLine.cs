@@ -21,11 +21,17 @@ namespace Autocad_Get_layer_18_04_2024
                 BlockTable blockTable = acadTrans.GetObject(acadCurDb.BlockTableId, OpenMode.ForRead) as BlockTable;
                 BlockTableRecord blockTableRecord = acadTrans.GetObject(blockTable[BlockTableRecord.ModelSpace], OpenMode.ForRead) as BlockTableRecord;
 
-                var lines = from ObjectId polyline in blockTableRecord where acadTrans.GetObject(polyline, OpenMode.ForRead) is Polyline2d select (Polyline2d)acadTrans.GetObject(polyline, OpenMode.ForRead);
-
-                foreach (Polyline2d line in lines)
+                var lines = from ObjectId polyline in blockTableRecord where acadTrans.GetObject(polyline, OpenMode.ForRead) is Polyline3d select (Polyline3d)acadTrans.GetObject(polyline, OpenMode.ForRead);
+                var plines = from ObjectId polyline in blockTableRecord where acadTrans.GetObject(polyline, OpenMode.ForRead) is Polyline select (Polyline)acadTrans.GetObject(polyline, OpenMode.ForRead);
+                foreach (Polyline3d line in lines)
                 {
-                    acadDocument.Editor.WriteMessage("\nДлина: {0}", line.Length);
+                    acadDocument.Editor.WriteMessage($"\nСлой 3d pol: {line.Layer}");
+                    acadDocument.Editor.WriteMessage($"\nДлина 3d pol: {line.Length}");
+                }
+                foreach (Polyline line in plines)
+                {
+                    acadDocument.Editor.WriteMessage($"\nСлой pol: {line.Layer}");
+                    acadDocument.Editor.WriteMessage($"\nДлина pol: {line.Length}");
                 }
             }
         }
