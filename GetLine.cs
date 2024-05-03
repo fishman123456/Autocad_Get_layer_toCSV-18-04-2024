@@ -11,7 +11,7 @@ namespace Autocad_Get_layer_18_04_2024
 {
     public class GetLine
     {
-        [CommandMethod("U_83_Get_lenght")]
+        [CommandMethod("U_83_Get_lenght")] 
         public void GetLines()
         {
             Document acadDocument = Application.DocumentManager.MdiActiveDocument;

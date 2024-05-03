@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{ABC4C07F-DBF2-445E-A164-A06EC400F5D0}|Autocad_Get_layer_to_csv-18-04-2024.csproj|solutionrelative:getline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABC4C07F-DBF2-445E-A164-A06EC400F5D0}|Autocad_Get_layer_to_csv-18-04-2024.csproj|c:\\users\\fishman\\documents\\github\\autocad_get_layer_tocsv-18-04-2024\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABC4C07F-DBF2-445E-A164-A06EC400F5D0}|Autocad_Get_layer_to_csv-18-04-2024.csproj|C:\\Users\\Fishman\\Documents\\GitHub\\Autocad_Get_layer_toCSV-18-04-2024\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABC4C07F-DBF2-445E-A164-A06EC400F5D0}|Autocad_Get_layer_to_csv-18-04-2024.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -103,8 +103,7 @@
               "RelativeToolTip": "Class1.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAgwA8AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T02:44:45.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T02:44:45.619Z"
             },
             {
               "$type": "Document",
