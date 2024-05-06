@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.ProgressBar;
 
 namespace Autocad_Get_layer_18_04_2024
 {
@@ -70,7 +71,9 @@ namespace Autocad_Get_layer_18_04_2024
                     acadDocument.Editor.WriteMessage($"\n {ex.Message}");
                     tr.Abort();
                 }
-                acadDocument.Editor.WriteMessage($"\n кол-во обьектов: {countStr}");
+                acadDocument.Editor.WriteMessage($"\nКол-во обьектов: {countStr}");
+                Cmds cmds = new Cmds();
+                cmds.ProgressBarManaged(countStr);
                 SaveCsv saveCsv = new SaveCsv();
                 saveCsv.saveCsv(stringsAll);
             }

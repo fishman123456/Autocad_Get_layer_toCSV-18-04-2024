@@ -75,6 +75,8 @@ namespace Autocad_Get_layer_18_04_2024
                         lstlay.Add(layerW);
                     }
                     lstlay.Insert(0, countK.ToString());
+                    Cmds cmds = new Cmds();
+                    cmds.ProgressBarManaged(countK);
                     // код для создания существующих не замороженных слоёв
                     //foreach (ObjectId layerId in lt)
                     //{
