@@ -3,32 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\Fishman\\Documents\\GitHub\\Autocad_Get_layer_toCSV-18-04-2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ABC4C07F-DBF2-445E-A164-A06EC400F5D0}|Autocad_Get_layer_to_csv-18-04-2024.csproj|C:\\Users\\Fishman\\Documents\\GitHub\\Autocad_Get_layer_toCSV-18-04-2024\\getline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABC4C07F-DBF2-445E-A164-A06EC400F5D0}|Autocad_Get_layer_to_csv-18-04-2024.csproj|c:\\users\\fishman\\documents\\github\\autocad_get_layer_tocsv-18-04-2024\\getline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABC4C07F-DBF2-445E-A164-A06EC400F5D0}|Autocad_Get_layer_to_csv-18-04-2024.csproj|solutionrelative:getline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABC4C07F-DBF2-445E-A164-A06EC400F5D0}|Autocad_Get_layer_to_csv-18-04-2024.csproj|c:\\users\\fishman\\documents\\github\\autocad_get_layer_tocsv-18-04-2024\\getlinelayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABC4C07F-DBF2-445E-A164-A06EC400F5D0}|Autocad_Get_layer_to_csv-18-04-2024.csproj|C:\\Users\\Fishman\\Documents\\GitHub\\Autocad_Get_layer_toCSV-18-04-2024\\getlinelayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABC4C07F-DBF2-445E-A164-A06EC400F5D0}|Autocad_Get_layer_to_csv-18-04-2024.csproj|solutionrelative:getlinelayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABC4C07F-DBF2-445E-A164-A06EC400F5D0}|Autocad_Get_layer_to_csv-18-04-2024.csproj|c:\\users\\fishman\\documents\\github\\autocad_get_layer_tocsv-18-04-2024\\progressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABC4C07F-DBF2-445E-A164-A06EC400F5D0}|Autocad_Get_layer_to_csv-18-04-2024.csproj|solutionrelative:progressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABC4C07F-DBF2-445E-A164-A06EC400F5D0}|Autocad_Get_layer_to_csv-18-04-2024.csproj|C:\\Users\\Fishman\\Documents\\GitHub\\Autocad_Get_layer_toCSV-18-04-2024\\checkdatework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC4C07F-DBF2-445E-A164-A06EC400F5D0}|Autocad_Get_layer_to_csv-18-04-2024.csproj|solutionrelative:checkdatework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABC4C07F-DBF2-445E-A164-A06EC400F5D0}|Autocad_Get_layer_to_csv-18-04-2024.csproj|C:\\Users\\Fishman\\Documents\\GitHub\\Autocad_Get_layer_toCSV-18-04-2024\\savecsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABC4C07F-DBF2-445E-A164-A06EC400F5D0}|Autocad_Get_layer_to_csv-18-04-2024.csproj|c:\\users\\fishman\\documents\\github\\autocad_get_layer_tocsv-18-04-2024\\savecsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABC4C07F-DBF2-445E-A164-A06EC400F5D0}|Autocad_Get_layer_to_csv-18-04-2024.csproj|solutionrelative:savecsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABC4C07F-DBF2-445E-A164-A06EC400F5D0}|Autocad_Get_layer_to_csv-18-04-2024.csproj|c:\\users\\fishman\\documents\\github\\autocad_get_layer_tocsv-18-04-2024\\checkdatework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABC4C07F-DBF2-445E-A164-A06EC400F5D0}|Autocad_Get_layer_to_csv-18-04-2024.csproj|solutionrelative:checkdatework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABC4C07F-DBF2-445E-A164-A06EC400F5D0}|Autocad_Get_layer_to_csv-18-04-2024.csproj|C:\\Users\\Fishman\\Documents\\GitHub\\Autocad_Get_layer_toCSV-18-04-2024\\progressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC4C07F-DBF2-445E-A164-A06EC400F5D0}|Autocad_Get_layer_to_csv-18-04-2024.csproj|solutionrelative:progressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Fishman\\AppData\\Local\\Temp\\.vsdbgsrc\\f16ebfdca8520b1eb165fd0e59f564689265ee5de4c30de5f9cd787e67c309d0\\SaveCsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ABC4C07F-DBF2-445E-A164-A06EC400F5D0}|Autocad_Get_layer-18-04-2024.csproj|C:\\Users\\Fishman\\Documents\\GitHub\\Autocad_Get_layer_toCSV-18-04-2024\\checkdatework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABC4C07F-DBF2-445E-A164-A06EC400F5D0}|Autocad_Get_layer-18-04-2024.csproj|solutionrelative:checkdatework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABC4C07F-DBF2-445E-A164-A06EC400F5D0}|Autocad_Get_layer-18-04-2024.csproj|C:\\Users\\Fishman\\Documents\\GitHub\\Autocad_Get_layer_toCSV-18-04-2024\\savecsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABC4C07F-DBF2-445E-A164-A06EC400F5D0}|Autocad_Get_layer-18-04-2024.csproj|solutionrelative:savecsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +37,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,26 +85,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "SaveCsv.cs",
+              "DocumentMoniker": "C:\\Users\\Fishman\\AppData\\Local\\Temp\\.vsdbgsrc\\f16ebfdca8520b1eb165fd0e59f564689265ee5de4c30de5f9cd787e67c309d0\\SaveCsv.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f16ebfdca8520b1eb165fd0e59f564689265ee5de4c30de5f9cd787e67c309d0\\SaveCsv.cs",
+              "ToolTip": "C:\\Users\\Fishman\\AppData\\Local\\Temp\\.vsdbgsrc\\f16ebfdca8520b1eb165fd0e59f564689265ee5de4c30de5f9cd787e67c309d0\\SaveCsv.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f16ebfdca8520b1eb165fd0e59f564689265ee5de4c30de5f9cd787e67c309d0\\SaveCsv.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:50:52.867Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaveCSV.cs",
+              "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\Autocad_Get_layer_toCSV-18-04-2024\\SaveCSV.cs",
+              "RelativeDocumentMoniker": "SaveCSV.cs",
+              "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\Autocad_Get_layer_toCSV-18-04-2024\\SaveCSV.cs",
+              "RelativeToolTip": "SaveCSV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:50:52.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ProgressBar.cs",
               "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\Autocad_Get_layer_toCSV-18-04-2024\\ProgressBar.cs",
               "RelativeDocumentMoniker": "ProgressBar.cs",
               "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\Autocad_Get_layer_toCSV-18-04-2024\\ProgressBar.cs",
               "RelativeToolTip": "ProgressBar.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwCkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T05:03:51.237Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "CheckDateWork.cs",
               "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\Autocad_Get_layer_toCSV-18-04-2024\\CheckDateWork.cs",
               "RelativeDocumentMoniker": "CheckDateWork.cs",
               "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\Autocad_Get_layer_toCSV-18-04-2024\\CheckDateWork.cs",
               "RelativeToolTip": "CheckDateWork.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAgwDEAAAAIAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T04:53:30.272Z",
               "EditorCaption": ""
@@ -118,7 +143,7 @@
               "RelativeDocumentMoniker": "GetLineLayer.cs",
               "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\Autocad_Get_layer_toCSV-18-04-2024\\GetLineLayer.cs",
               "RelativeToolTip": "GetLineLayer.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAowE4AAAA0AAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowD8AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T02:44:45.619Z",
               "EditorCaption": ""
@@ -131,39 +156,14 @@
               "RelativeDocumentMoniker": "GetLine.cs",
               "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\Autocad_Get_layer_toCSV-18-04-2024\\GetLine.cs",
               "RelativeToolTip": "GetLine.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAEsAAAAwAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAgwEIAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-03T09:52:50.756Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SaveCSV.cs",
-              "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\Autocad_Get_layer_toCSV-18-04-2024\\SaveCSV.cs",
-              "RelativeDocumentMoniker": "SaveCSV.cs",
-              "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\Autocad_Get_layer_toCSV-18-04-2024\\SaveCSV.cs",
-              "RelativeToolTip": "SaveCSV.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAgwDUAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T05:58:00.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "SaveCSV.cs",
-              "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\Autocad_Get_layer_toCSV-18-04-2024\\SaveCSV.cs",
-              "RelativeDocumentMoniker": "SaveCSV.cs",
-              "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\Autocad_Get_layer_toCSV-18-04-2024\\SaveCSV.cs",
-              "RelativeToolTip": "SaveCSV.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwCYAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T03:24:40.514Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "CheckDateWork.cs",
               "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\Autocad_Get_layer_toCSV-18-04-2024\\CheckDateWork.cs",
               "RelativeDocumentMoniker": "CheckDateWork.cs",

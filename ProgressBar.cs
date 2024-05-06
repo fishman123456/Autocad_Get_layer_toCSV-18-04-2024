@@ -17,7 +17,7 @@ namespace Autocad_Get_layer_18_04_2024
 
             pm.Start("Testing Progress Bar");
 
-            pm.SetLimit(100);
+            pm.SetLimit(countst);
 
             // Now our lengthy operation
 
@@ -25,7 +25,7 @@ namespace Autocad_Get_layer_18_04_2024
 
             {
 
-                System.Threading.Thread.Sleep(50);
+                System.Threading.Thread.Sleep(1);
 
                 // Increment Progress Meter...
 
