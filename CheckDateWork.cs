@@ -21,7 +21,7 @@ namespace Autocad_Get_layer_18_04_2024
             Database db = doc.Database;
             Editor ed = doc.Editor;
             DateTime dt1 = DateTime.Now;
-            DateTime dt2 = DateTime.Parse("20/05/2024");
+            DateTime dt2 = DateTime.Parse("20/05/2025");
            
 
             if (dt1.Date > dt2.Date)

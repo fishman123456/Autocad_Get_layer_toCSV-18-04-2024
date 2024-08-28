@@ -13,7 +13,7 @@ namespace Autocad_Get_layer_18_04_2024
     public class GetLineLayer
     {
         // This method can have any name
-        [CommandMethod("U83_Get_lay")]
+        [CommandMethod("U_83_Get_lay")]
         public void TestDisplayLayers()
         {
             Document doc = Autodesk.AutoCAD.ApplicationServices.Application.DocumentManager.MdiActiveDocument;
